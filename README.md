@@ -34,10 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Got a couple of Thread1: SIGABRT Errors which consumed a lot of time, but after surfing online, i got the solution to the error.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Shiva Gopalkrishnan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
